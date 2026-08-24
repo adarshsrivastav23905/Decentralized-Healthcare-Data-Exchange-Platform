@@ -1,0 +1,32 @@
+{
+  "recordInfo": {
+    "recordId": "MR-003",
+    "recordType": "Discharge Summary",
+    "createdDate": "2025-05-22",
+    "facility": "Metro Medical Center"
+  },
+  "patientInfo": {
+    "patientId": "P002",
+    "name": "Jane Smith",
+    "age": 28,
+    "gender": "Female",
+    "note": "THIS IS SYNTHETIC/DUMMY DATA FOR EDUCATIONAL PURPOSES ONLY"
+  },
+  "dischargeSummary": {
+    "admissionDate": "2025-05-18",
+    "dischargeDate": "2025-05-22",
+    "attendingPhysician": "Dr. Robert Williams",
+    "admissionDiagnosis": "Acute Appendicitis",
+    "procedurePerformed": "Laparoscopic Appendectomy",
+    "procedureDate": "2025-05-19",
+    "hospitalCourse": "Patient presented with acute right lower quadrant pain. Imaging confirmed appendicitis. Laparoscopic appendectomy performed successfully. Post-operative recovery uneventful. Patient tolerated diet and was ambulatory prior to discharge.",
+    "dischargeCondition": "Stable, improved",
+    "dischargeMedications": [
+      { "name": "Ibuprofen", "dosage": "400mg", "frequency": "Every 6 hours as needed for pain" },
+      { "name": "Amoxicillin", "dosage": "500mg", "frequency": "Three times daily for 5 days" }
+    ],
+    "followUpInstructions": "Follow up with surgeon in 1 week. Return to ER if fever >101°F, increasing pain, or wound redness.",
+    "status": "Completed"
+  },
+  "disclaimer": "This is a synthetic medical record created for blockchain project demonstration. It does not represent real patient data."
+}

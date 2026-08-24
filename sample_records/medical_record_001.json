@@ -1,0 +1,28 @@
+{
+  "recordInfo": {
+    "recordId": "MR-001",
+    "recordType": "Lab Report",
+    "createdDate": "2025-03-15",
+    "facility": "City General Hospital"
+  },
+  "patientInfo": {
+    "patientId": "P001",
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "note": "THIS IS SYNTHETIC/DUMMY DATA FOR EDUCATIONAL PURPOSES ONLY"
+  },
+  "labResults": {
+    "testName": "Complete Blood Count (CBC)",
+    "orderedBy": "Dr. Sarah Smith",
+    "results": {
+      "hemoglobin": { "value": 14.2, "unit": "g/dL", "normalRange": "13.5-17.5" },
+      "whiteBloodCells": { "value": 7500, "unit": "/mcL", "normalRange": "4500-11000" },
+      "platelets": { "value": 250000, "unit": "/mcL", "normalRange": "150000-400000" },
+      "redBloodCells": { "value": 5.1, "unit": "million/mcL", "normalRange": "4.5-5.9" }
+    },
+    "interpretation": "All values within normal range. No abnormalities detected.",
+    "status": "Final"
+  },
+  "disclaimer": "This is a synthetic medical record created for blockchain project demonstration. It does not represent real patient data."
+}

@@ -1,0 +1,43 @@
+{
+  "recordInfo": {
+    "recordId": "MR-004",
+    "recordType": "Vaccination Record",
+    "createdDate": "2025-06-01",
+    "facility": "Community Health Center"
+  },
+  "patientInfo": {
+    "patientId": "P001",
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "note": "THIS IS SYNTHETIC/DUMMY DATA FOR EDUCATIONAL PURPOSES ONLY"
+  },
+  "vaccination": {
+    "administeredBy": "Nurse Patricia Lee",
+    "supervisingPhysician": "Dr. Michael Chen",
+    "vaccines": [
+      {
+        "vaccineName": "Influenza (Flu) Vaccine",
+        "manufacturer": "Example Pharma Inc.",
+        "lotNumber": "FLU-2025-A1234",
+        "doseNumber": 1,
+        "site": "Left Deltoid",
+        "route": "Intramuscular",
+        "dateAdministered": "2025-06-01"
+      },
+      {
+        "vaccineName": "Tdap (Tetanus, Diphtheria, Pertussis)",
+        "manufacturer": "Sample Biologics Co.",
+        "lotNumber": "TDAP-2025-B5678",
+        "doseNumber": 1,
+        "site": "Right Deltoid",
+        "route": "Intramuscular",
+        "dateAdministered": "2025-06-01"
+      }
+    ],
+    "adverseReactions": "None observed during 15-minute observation period.",
+    "nextDueDate": "2026-06-01",
+    "status": "Completed"
+  },
+  "disclaimer": "This is a synthetic medical record created for blockchain project demonstration. It does not represent real patient data."
+}

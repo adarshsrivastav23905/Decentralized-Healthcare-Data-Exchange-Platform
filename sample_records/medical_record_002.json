@@ -1,0 +1,38 @@
+{
+  "recordInfo": {
+    "recordId": "MR-002",
+    "recordType": "Prescription",
+    "createdDate": "2025-04-10",
+    "facility": "HealthFirst Clinic"
+  },
+  "patientInfo": {
+    "patientId": "P001",
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "note": "THIS IS SYNTHETIC/DUMMY DATA FOR EDUCATIONAL PURPOSES ONLY"
+  },
+  "prescription": {
+    "prescribedBy": "Dr. Emily Johnson",
+    "diagnosis": "Seasonal Allergic Rhinitis",
+    "medications": [
+      {
+        "name": "Cetirizine",
+        "dosage": "10mg",
+        "frequency": "Once daily",
+        "duration": "14 days",
+        "instructions": "Take at bedtime"
+      },
+      {
+        "name": "Fluticasone Nasal Spray",
+        "dosage": "50mcg per spray",
+        "frequency": "2 sprays each nostril, once daily",
+        "duration": "30 days",
+        "instructions": "Use in the morning"
+      }
+    ],
+    "notes": "Follow up in 2 weeks if symptoms persist.",
+    "status": "Active"
+  },
+  "disclaimer": "This is a synthetic medical record created for blockchain project demonstration. It does not represent real patient data."
+}

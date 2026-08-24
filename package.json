@@ -1,0 +1,35 @@
+{
+  "name": "decentralized-healthcare-data-exchange",
+  "version": "1.0.0",
+  "description": "Blockchain-based healthcare data exchange prototype using Solidity smart contracts for patient-controlled consent, medical record hash verification, role-based access, and immutable audit trails.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "node": "npx hardhat node",
+    "deploy": "npx hardhat run scripts/deploy.js --network localhost",
+    "deploy:local": "npx hardhat run scripts/deploy.js --network localhost",
+    "hash": "node scripts/generate-hash.js",
+    "verify": "node scripts/verify-hash.js"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "healthcare",
+    "web3",
+    "smart-contract",
+    "ethereum",
+    "healthtech",
+    "access-control",
+    "ipfs",
+    "hardhat",
+    "ethersjs",
+    "dapp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}

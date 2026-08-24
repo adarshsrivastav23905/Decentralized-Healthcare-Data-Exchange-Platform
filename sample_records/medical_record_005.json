@@ -1,0 +1,32 @@
+{
+  "recordInfo": {
+    "recordId": "MR-005",
+    "recordType": "Imaging",
+    "createdDate": "2025-07-10",
+    "facility": "Radiology Associates"
+  },
+  "patientInfo": {
+    "patientId": "P002",
+    "name": "Jane Smith",
+    "age": 28,
+    "gender": "Female",
+    "note": "THIS IS SYNTHETIC/DUMMY DATA FOR EDUCATIONAL PURPOSES ONLY"
+  },
+  "imagingReport": {
+    "studyType": "Chest X-Ray (PA and Lateral)",
+    "orderedBy": "Dr. Robert Williams",
+    "radiologist": "Dr. Amanda Torres",
+    "clinicalIndication": "Post-operative follow-up, rule out pneumonia",
+    "findings": {
+      "lungs": "Clear bilaterally. No infiltrates, masses, or pleural effusions.",
+      "heart": "Normal size and contour. No cardiomegaly.",
+      "mediastinum": "Unremarkable. No widening.",
+      "bones": "No acute fractures or bony abnormalities.",
+      "softTissues": "Unremarkable."
+    },
+    "impression": "Normal chest radiograph. No acute cardiopulmonary process.",
+    "imageReference": "SIMULATED — No actual DICOM images in this demo",
+    "status": "Final"
+  },
+  "disclaimer": "This is a synthetic medical record created for blockchain project demonstration. It does not represent real patient data."
+}
