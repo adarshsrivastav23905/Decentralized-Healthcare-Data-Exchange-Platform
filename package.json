@@ -26,7 +26,7 @@
     "ethersjs",
     "dapp"
   ],
-  "author": "",
+  "author": "Adarsh Srivastav",
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",

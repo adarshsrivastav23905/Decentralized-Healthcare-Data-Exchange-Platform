@@ -263,8 +263,8 @@ Decentralized-Healthcare-Data-Exchange/
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Decentralized-Healthcare-Data-Exchange.git
-cd Decentralized-Healthcare-Data-Exchange
+git clone https://github.com/adarshsrivastav23905/Decentralized-Healthcare-Data-Exchange-Platform.git
+cd Decentralized-Healthcare-Data-Exchange-Platform
 
 # Install dependencies
 npm install
@@ -407,9 +407,9 @@ Through this project, I learned:
 
 ## Author
 
-**[Your Name]**
+**Adarsh Srivastav**  
+GitHub: [@adarshsrivastav23905](https://github.com/adarshsrivastav23905)  
 Diploma Course — Blockchain Technology
-[Your Institution]
 
 ---
 
