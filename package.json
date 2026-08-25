@@ -11,7 +11,7 @@
     "deploy:local": "npx hardhat run scripts/deploy.js --network localhost",
     "hash": "node scripts/generate-hash.js",
     "verify": "node scripts/verify-hash.js"
-  },
+  },  
   "keywords": [
     "blockchain",
     "solidity",
