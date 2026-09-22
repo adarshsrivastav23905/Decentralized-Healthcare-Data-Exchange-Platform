@@ -4,7 +4,7 @@
 [![Hardhat](https://img.shields.io/badge/Hardhat-Development-yellow?logo=ethereum)](https://hardhat.org/)
 [![React](https://img.shields.io/badge/React-Frontend-61dafb?logo=react)](https://reactjs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
+   
 > **Blockchain-based healthcare data exchange prototype** using Solidity smart contracts for patient-controlled consent, medical record hash verification, role-based access, and immutable audit trails.   
 
 > ⚠️ **Disclaimer**: This is an educational prototype using synthetic data only. Not intended for real patient data or clinical use.
